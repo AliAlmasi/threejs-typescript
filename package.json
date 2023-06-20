@@ -1,13 +1,13 @@
 {
-  "name": "three",
+  "name": "threejs-typescript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Three.js with Typescript",
   "main": "index.js",
   "scripts": {
     "dev": "webpack serve --config ./src/client/webpack.dev.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ali Almasi",
   "license": "ISC",
   "devDependencies": {
     "@types/three": "^0.152.1",
